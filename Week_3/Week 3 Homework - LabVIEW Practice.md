@@ -36,7 +36,8 @@ Let's construct another LabVIEW program that uses the microphone installed in yo
 
 Create a new VI. The construction of this VI will not be laid out explicitly as in Activity 2; instead, use the image below as reference; LabVIEW will describe all input/output functions of each block when you hover over them. Most audio controls in the Block Diagram can be found in Programming -> Graphics & Sound. The data should be displayed in a Waveform Plot in the Front Panel and you should include a dial changing the audio sampling frequency of the program between 0 and 10,000 samples/channel. Use any documentation and other resources you need (I used ChatGPT for guidence in making this, as usual; you can upload screenshots of your block diagram to ChatGPT and it'll help you diagnose issues. It can also give you inspiration for aditional add-ons and customization you can use in your program). Feel free to contact Amelia if you have any questions on this activity, it's supposed to be a little more open-ended. NOTE: The way I have this setup, the dial actually changes both the audio collection duration (ms) AND the sampling rate. 
 
-<img width="739" alt="image" src="https://github.com/ameliabinau/STARTUP_Purdue/assets/159074270/4da97391-3281-4f54-8f59-1204de1e95a7">
+<img width="763" alt="image" src="https://github.com/ameliabinau/STARTUP_Purdue/assets/159074270/2d65ba4d-9c4e-4815-ba94-d44dda9442a4">
+
 
 
 

@@ -6,7 +6,7 @@ LabVIEW (created by National Instruments, NI) uses a "visual" programming langua
 
 **Download LabVIEW** (https://www.ni.com/en/support/downloads/software-products/download.labview-student-software-suite.html#352828) from NI. You automatically get a 45 day trial of the software. You'll have to create a NI account using your Purdue email. Once this is done and you verify your account via email, you begin the download of the LabVIEW suite. If you run Windows, they will ask if you want to disable Windows Fast Startup; click no. Additionally, you don't want to install any of the additional packages for LabVIEW; the program might take around 10 minutes to install anyway and we won't need them, we'll just need the base software. After it installs, your computer will restart. Launch LabVIEW when complete and click "Create Project" and "Create New VI." Every project will be called a "VI," or "Virtual Instrument." 
 
-***Please review this introductory summary** of the two different panels that are generated when you create a new project: https://learn.ni.com/learn/article/labview-tutorial*
+***Please review this introductory summary** of the two different panels that are generated when you create a new project: https://learn.ni.com/learn/article/labview-tutorial.*
 
 ### **Activity 1:**
 

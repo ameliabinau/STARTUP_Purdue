@@ -14,7 +14,7 @@ Explore the "Functions" window. Name three functions from three major categories
 
 ### **Activity 2: Wein's Law Calculator**
 
-**BTW** - If at any point you exit your VI, reopen it, and either the Block Diagram or Front Panel is missing, just go to Window -> Show Block Diagram/Show Front Panel to reopen it. I've found LabVIEW tends to open with just the Front Panel, which makes sense - when you've completed creating a working LabVIEW program and are using it for science/data collection, you'll use the Front Panel (this is the interactive and data-readout part) much more than the Block Diagram. 
+**BTW** - If at any point you exit your VI, reopen it, and either the Block Diagram or Front Panel are missing, just go to Window -> Show Block Diagram/Show Front Panel to reopen it. I've found LabVIEW tends to open with just the Front Panel, which makes sense - when you've completed creating a working LabVIEW program and are using it for science/data collection, you'll use the Front Panel (this is the interactive and data-readout part) much more than the Block Diagram. 
 
 **Wein's Law** is an intrinsic law of bulk materials describing the peak wavelength (m) of an object's emitted **electromagnetic blackbody spectrum** at a given temperature (K). Read more here: https://en.wikipedia.org/wiki/Wien%27s_displacement_law. Let's create a simple LabVIEW program that takes a numeric input (in Kelvin) and outputs the corresponding, theoretical peak wavelength in nanometers (nm). Normally, LabVIEW is used to take such input values from an instrument in the lab and run calculations, but it can also be used to create simple calculators like this, too. The equation for Wein's Law is: $\lambda_{peak} = m/T$, where m is a constant equal to about 0.002897 m*K. 
 

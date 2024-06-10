@@ -28,7 +28,7 @@ Explore the "Functions" window. Name three functions from three major categories
 
 **5.** Once the dataflow "circuit" is setup, it's time to run the LabVIEW program. Navigate to the Front Panel and type a temperature of 1000 K into the "Temperature (K)" input. Then, at the top left of the panel, press the right-pointing arrow to run the program. A new number - the output - should appear in the results box. What number does it yeild? If done correctly, it should yeild approximately 2897 nm. That is, an object with an average temperature of 1000 K emits thermal radiation with a wavelength of 2897 nm, which is in the infrared.
 
-**6.** The temperature of the Sun is approx. 5780 K. Use your LabVIEW calculator to determine what wavelength the Sun emits most of. What color does this wavelength correspond to? In a .md file in GitHub, answer this question and insert screenshots of your Block Diagram and Front Panel for this LabVIEW program. Congrats! You just created your first fully-functional LabVIEW program. Imagine how you could use this program to collect data taken from hardware in a lab and record/manipulate it using our "circuits" in real-time!
+**6.** The temperature of the Sun is approx. 5780 K. Use your LabVIEW calculator to determine what wavelength the Sun emits most of. What color does this wavelength correspond to? In a `.md` file in GitHub, answer this question and insert screenshots of your Block Diagram and Front Panel for this LabVIEW program. Congrats! You just created your first fully-functional LabVIEW program. Imagine how you could use this program to collect data taken from hardware in a lab and record/manipulate it using our "circuits" in real-time!
 
 
 

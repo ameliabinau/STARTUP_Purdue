@@ -30,7 +30,13 @@ Explore the "Functions" window. Name three functions from three major categories
 
 **6.** The temperature of the Sun is approx. 5780 K. Use your LabVIEW calculator to determine what wavelength the Sun emits most of. What color does this wavelength correspond to? In a `.md` file in GitHub, answer this question and insert screenshots of your Block Diagram and Front Panel for this LabVIEW program. Congrats! You just created your first fully-functional LabVIEW program. Imagine how you could use this program to collect data taken from hardware in a lab and record/manipulate it using our "circuits" in real-time!
 
+### **Activity 3: Plotting Sound Intensity from Computer Mircophone**
 
+Let's construct another LabVIEW program that uses the microphone installed in your computer to collect data. This activity will simulate collection of data from external input/output hardware that you might encounter in a lab. For instance, I once worked in a lab that used LabVIEW to collect and plot live input data from a pressure plate. 
+
+Create a new VI. The construction of this VI will not be laid out explicitly as in Activity 2; instead, use the image below as reference; LabVIEW will describe all input/output functions of each block when you hover over them. Most audio controls in the Block Diagram can be found in Programming -> Graphics & Sound. The data should be displayed in a Waveform Plot in the Front Panel and you should include a dial changing the audio sampling frequency of the program between 0 and 10,000 samples/channel. Use any documentation and other resources you need (I used ChatGPT for guidence in making this, as usual; you can upload screenshots of your block diagram to ChatGPT and it'll help you diagnose issues. It can also give you inspiration for aditional add-ons and customization you can use in your program). Feel free to contact Amelia if you have any questions on this activity, it's supposed to be a little more open-ended.
+
+<img width="763" alt="image" src="https://github.com/ameliabinau/STARTUP_Purdue/assets/159074270/59c10c43-5bcd-409f-8422-71e67eb02e8f">
 
 
 

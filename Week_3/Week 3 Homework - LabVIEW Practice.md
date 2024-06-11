@@ -38,6 +38,8 @@ Create a new VI. The construction of this VI will not be laid out explicitly as 
 
 <img width="758" alt="image" src="https://github.com/ameliabinau/STARTUP_Purdue/assets/159074270/b6c4d317-df7e-4d4f-a6c5-704e9620d7a5">
 
+$\sigma = \sqrt{N}$
+
 
 
 

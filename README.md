@@ -1,6 +1,6 @@
 # Welcome to STARTUP: Summer Training in Applied Research Tools for Undergraduate Physics
 
-Having seen a growing need within the the field to provide experience and training in physics research to curious and ambitious students, we developed STARTUP to provide all who are interested with meaningful, one-on-one experience.
+Having seen a growing need within the the field to provide marketable experience and training in physics research to curious and ambitious students, we developed STARTUP to provide all who are interested with meaningful, one-on-one experience.
 
 [STARTUP Homepage](https://sites.google.com/view/startup-purdue/home)
 
